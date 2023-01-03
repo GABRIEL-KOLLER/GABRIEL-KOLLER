@@ -3,7 +3,7 @@ Olá! Eu sou Gabriel Koller
 
 
 - 🔭 Atualmente me dedico ao Frontend.
-- 📚 Estudando Tecnologias: JavaScript, React JS, TypeScript, Python, Django, 
+- 📚 Estudando Tecnologias: JavaScript, React JS, TypeScript, Python, Django 
 - 📚 Interesses em aprender: React Native, Next JS, Node.js, MongoDB 
 - 📫 Entre em contato comigo no Email: gabrielkoller.2@gmail.com
 - 🌐 Meu Portifólio: "Em desenvolvimento!"
