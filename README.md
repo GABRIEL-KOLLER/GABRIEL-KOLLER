@@ -9,15 +9,15 @@
  - 👨‍🏫 Interesse em aprender: React Native, NextJS, Node.js, MongoDB
  - 📫 Entre em contato comigo no Email: gabrielkoller.2@gmail.com
  - 🌐 Meu Portifólio: https://dev-portfolio-gabriel.netlify.app  
-  
+  <br>
 
   
 
-<div align="center">
-  <a href="https://github.com/GABRIEL-KOLLER">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GABRIEL-KOLLER&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GABRIEL-KOLLER&layout=compact&langs_count=7&theme=dark"/>
+<div align="left">
+  <a href="https://github.com/GABRIEL-KOLLER"> 
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GABRIEL-KOLLER&layout=compact&langs_count=7&theme=dark"/>
 </div>
+ <br>
 
 
  <h2>Minhas Redes<h2/>
