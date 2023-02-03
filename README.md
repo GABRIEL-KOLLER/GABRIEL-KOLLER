@@ -24,13 +24,13 @@
   
   <div style="display:inline-block"><br/>  
   <a href="https://www.instagram.com/kolleergb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://api.whatsapp.com/send?phone=5542998030039" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+ 	<a href="https://twitter.com/GabrielKoller_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href = "mailto:gabrielkoller.2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-koller-40b52621b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 
   
-  <h2>Hard Skills<h2/> 
+  <h2>Hard Skills 💻 <h2/> 
   
   
   <div style="display: inline_block"><br/>
@@ -57,7 +57,7 @@
     
     
  
-  <h2>Bancos de Dados<h2/> 
+  <h2>Bancos de Dados | ORM<h2/> 
   
  <div style="display:inline-block"><br/>
     • <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
@@ -73,7 +73,7 @@
   </div>
   
   
-  <h2>DevOps | Deploy<h2/> 
+  <h2>DevOps<h2/> 
   
    <div style="display:inline-block"><br/>
     • <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
